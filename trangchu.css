@@ -254,7 +254,6 @@ nav {
 }
 
 .login-form #log {
-    float: right;
     font-weight: bold;
     padding-left: 15px;
     padding-right: 15px;
@@ -271,7 +270,7 @@ nav {
 }
 
 .login-form #rig {
-    float: right;
+
     font-weight: bold;
     padding-left: 15px;
     padding-right: 15px;
